@@ -14,7 +14,7 @@ dependencies {
     testImplementation("org.junit.jupiter:junit-jupiter")
     testImplementation("org.assertj:assertj-core:3.27.3")
     testImplementation("org.mockito:mockito-core:5.16.1")
-    testImplementation("com.approvaltests:approvaltests:24.17.0")
+    testImplementation("com.approvaltests:approvaltests:24.18.0")
 }
 
 tasks.test {
